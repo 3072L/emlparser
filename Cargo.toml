@@ -1,0 +1,10 @@
+[package]
+name = "emlparser"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mailparse = "0.14.0"
+xlsxwriter = "0.5.0"
